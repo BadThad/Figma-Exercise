@@ -114,9 +114,9 @@
     margin-top: 30px;
 }
 
-/*.header-section {
+.header-section {
     display: inline-block;
-}*/
+}
 
 .page-title {
     /*changed max width from 497px to 500px to get the title on 2 lines*/
